@@ -1,0 +1,30 @@
+# Thư mục build của Eclipse/Maven
+target/
+build/
+bin/
+
+# File thiết lập Eclipse (Tuỳ chọn: nếu muốn người khác mở luôn thì có thể xóa 3 dòng này, nhưng chuẩn là nên ẩn)
+.settings/
+.project
+.classpath
+
+# File nén và file class
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Bỏ qua logs của hệ thống
+*.log
+
+# Bỏ qua thư mục IDE khác (Nếu người khác dùng IntelliJ, VSCode)
+.idea/
+*.iml
+.vscode/
+
+# File tạm của hệ điều hành
+.DS_Store
+Thumbs.db
