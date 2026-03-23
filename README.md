@@ -35,8 +35,8 @@ private static final String PASS = "123456";    // Cập nhật lại mật kh�
 * Chuột phải vào Project -> Run As -> Run on Server.
 
 ### 3. Deploy trên Tomcat
-ADMIN: Tam/123.
-SHIPPER: Tan/123.
+* ADMIN: Tam/123
+* SHIPPER: Tan/123
 ---
 
 *Lưu ý: Mọi đóng góp xin gửi Pull Request thông qua Github.*
